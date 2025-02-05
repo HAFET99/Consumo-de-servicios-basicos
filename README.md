@@ -17,4 +17,4 @@ Despues de cargar el archivo tendrà que descargar la librerìa GUNA en C#, desp
 
 # Ejecuciòn de pruebas
 
-Luego posterior a la instalaciòn y para probar los resultados: correr la intefaz de registro y login para registro e iniciar sesiòn, dado que aun esta en proceso la base de datos no pordràs acceder directo despues de registrarte porque el programa no guarda los datos de registro, entonces tendràs que salirte de registro e irte a la interfaz del consumo de agua y luz, y ya estaras en la interfaz final.
+Luego posterior a la instalaciòn y para probar los resultados: correr la intefaz de registro y login para registro e iniciar sesiòn, dado que aun esta en proceso la base de datos no pordràs acceder directo despues de registrarte porque el programa no guarda los datos de registro, entonces tendràs que salirte de registro e irte a la interfaz del consumo de agua y luz (Su nombre es Dashboard), y ya estaras en la interfaz final.
